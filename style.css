@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  background: #d9c6c6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.container {
+  background: #915a5a;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #2a1e1e;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.weather-box {
+  margin-top: 20px;
+}
+.card {
+  background: #fff;
+  box-shadow: 0 0 10px #ccc;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+}
